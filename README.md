@@ -1,4 +1,4 @@
 # Mrinalfirst-repo
 This is my first repo.
 <br>
-Author: Mrinal Mondal
+Author: Mrinal Mondal(swagata basak)
